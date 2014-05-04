@@ -1,1 +1,1 @@
-- shell: echo yeah > /tmp/`date +%Y%m%d%H%M%S`
+- shell: echo the only role parameter is {{ dummy_ansible_role_parameter}} > /tmp/`date +%Y%m%d%H%M%S`

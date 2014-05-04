@@ -1,0 +1,1 @@
+- shell: echo yeah > /tmp/`date +%Y%m%d%H%M%S`
